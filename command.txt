@@ -1,0 +1,7 @@
+Local Pages:
+https://localhost:5001/learn-more
+https://localhost:5001/learn-more/azure-cosmos-db
+
+command:
+sass --watch scss:css,    
+npm run minify
